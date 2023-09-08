@@ -1,0 +1,198 @@
+body
+{
+            background-color:black;
+            /* background-color:rgb(70, 44, 44); */
+            
+            background-repeat: no-repeat;
+            /* position: fixed; */
+            
+}
+*
+{
+        margin: 0;
+        padding: 0;
+        border: border-box;
+        font-weight: larger;    
+}
+.main
+{
+        height: 610px;
+}
+.pplace1
+{
+        width: 90px;
+        height: 500px;
+        /* background-color: aliceblue; */
+        margin: 30px 0 0 15px;
+        border-radius: 2rex;
+        position: fixed;
+
+}
+.a1
+{
+        background-color:rgb(86, 82, 82);
+        width: 80px;
+        height: 140px;
+        margin: 10px 5px 0 5px;
+        border-radius: 2rex;
+        display: flex;
+        flex-direction: column;
+       justify-content: space-around;
+       align-items: center;
+       transition: all 2s steps(1);
+}
+/* .a1:hover
+{
+} */
+.a2
+{
+        background-color:rgb(86, 82, 82);
+
+        width: 80px;
+       height: 400px;
+        margin: 10px 5px 0 5px;
+        border-radius: 2rex;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+       align-items: center;
+}
+.aaa
+{
+        font-size: 3.0rem;
+        padding-left: 23px;
+        padding-bottom:12px;
+        color: transparent;
+}
+.a
+{
+        height: 60px;
+        width: 60px;
+        background-color: aliceblue;
+        border-radius: 50%;
+}
+.a14
+{
+        background-image: url(showimage1.jpg);
+        background-size: cover;
+}
+.a15
+{
+        background-image: url(cover7.jpg);
+        background-size: cover;
+}
+.a16
+{
+        background-image: url(showimage3.jpg);
+        background-size: cover;
+}
+.a17
+{
+        background-image: url(cover6.jpg);
+        background-size: cover;
+}
+.a18
+{
+        background-image: url(showimage5.jpg);
+        background-size: cover;
+}
+.place2
+{
+        height: 100px;
+        width: 1534px;
+        background-color:rgb(86, 82, 82);
+        border-radius: 2rem;
+        position: fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+}
+#myProgressBar
+{
+        width: 80vh;
+        cursor: pointer;
+
+}
+.b
+{
+        padding-right: 11px;
+        padding-left: 10px;
+        cursor: pointer;
+}
+.fa-solid .fa-play
+{
+        cursor: pointer;
+}
+h1
+{
+        padding: 10px 0 0 100px;
+        font-family: Arial;
+}
+.container
+{
+        margin-top: 10px;
+        margin-left: 150px; 
+        height: 600px;
+        width: 1350px;
+        background-image: url(parmish.webp);
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: space-between; */
+        border-radius: 3rex;
+       
+}
+.songItemContainer
+{
+        margin-top: 64px;
+}
+.songItem
+{
+        height: 50px;
+        display: flex;
+        background-color:rgb(145, 136, 136);
+        
+        width: 500px;
+        color:black;
+        margin: 12px 0 0 80px;
+        justify-content: space-between;
+        align-items: center;
+        border-radius: 3rex;
+        transition: all 1.2s ease-in;
+
+}
+.songItem:hover
+{
+        transform: scale(1.1);
+}
+.songItem img
+{
+         width: 40px;
+         margin-left: 3px;
+         border-radius: 34px;
+}
+.timestamp
+{
+        margin: 0 13px;
+}
+.timestamp i
+{
+        cursor: pointer;
+
+}
+.songinfo
+{
+        position: absolute;
+        left: 35px;
+}
+.songinfo i
+{
+        opacity: 0;
+        transition: opacity 1s ease-in;
+}
+.songItemPlay 
+{
+        color: rgb(8, 97, 41);
+}
+

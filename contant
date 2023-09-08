@@ -1,0 +1,51 @@
+c= songItem  <div class="c1 songItem">
+                                    <img src="image1.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Dandelions</div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;"></i> </div>
+                                    </div>
+                                    <div class="c2 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">MockingBird</div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;" ></i> </div>
+                                    </div>
+                                    <div class="c3 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Gasolina </div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;" ></i> </div>
+                                    </div>
+                                    <div class="c4 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Till Forever Falls Apart </div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;"></i> </div>
+                                    </div>
+                                    <div class="c5 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Mi Amor </div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;"></i> </div>
+                                    </div>
+                                    <div class="c6 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Cheques </div>
+                                                <div class="songListplay">time     <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;"></i> </div>
+                                    </div>
+                                    <div class="c7 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Chorni </div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;"></i> </div>
+                                    </div>
+                                    <div class="c8 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Check It Out </div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;"></i> </div>
+                                    </div>
+                                    <div class="c9 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Bella Ciao </div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;"></i> </div>
+                                    </div>
+                                    <div class="c10 songItem">
+                                                 <img src="imagemain.jpg" alt="" class="ca1">
+                                                <div class="ca2 songName">Rihaayi </div>
+                                                <div class="songListplay">time      <i class=" songItemPlay fa-solid fa-circle-play" style="font-size: 2rem;" style="color: black;" ></i> </div>
+                                    </div>
+                                   1 19 28
